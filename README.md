@@ -1,18 +1,18 @@
   <div align="center">
 <div id="header">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
+<img src="#" width="100">
 </div>
 <div id="badges">
-<a href="https://www.linkedin.com/in/shaunak-chandra-6b3363215/">
+<a href="#">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn Badge">
 </a>
-<a href="https://www.instagram.com/shaunak_chandra/">
+<a href="#">
   <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Youtube Badge">
 </a>
-<a href="mailto:aqchandra15@gmail.com">
+<a href="changsaoggo123@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&amp;logo=gmail&amp;logoColor=red" alt="Youtube Badge">
 </a>
-<a href="https://leetcode.com/aqchandra15/">
+<a href="#">
   <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&amp;logo=leetcode&amp;logoColor=yellow" alt="Youtube Badge">
 </a>
 </div>
