@@ -19,7 +19,7 @@ Thanks for visiting my GitHub profile!
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apiwat-Oraat&layout=compact&theme=tokyonight)
-
+-->
 
