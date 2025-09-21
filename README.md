@@ -7,5 +7,5 @@ My academic focus includes software development, database systems, and informati
 
 Thanks for visiting my GitHub profile!
 
-TeckStack
+TeckStack <br>
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
