@@ -4,7 +4,7 @@ I'm currently studying in the **Bachelor of Industrial Technology Program in Inf
 at **King Mongkut's University of Technology North Bangkok (KMUTNB)**.
 
 My academic focus includes software development, database systems, and information technology. <br>
-Although I’m not very good at explaining things yet, I’m always ready to learn and improve myself ✨
+I’m always ready to learn and improve myself ✨
 
 🌱 I’m currently learning more about web development and database-driven systems.
 
