@@ -1,5 +1,5 @@
 
-## About Me  👋 Hello! <br>
+## About me     👋 Hello! <br>
 I'm currently studying in the **Bachelor of Industrial Technology Program in Information Technology**  
 at **King Mongkut's University of Technology North Bangkok (KMUTNB)**.
 
