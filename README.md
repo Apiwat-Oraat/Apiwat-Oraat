@@ -1,5 +1,5 @@
 ### 👋 Hello!
-
+<h2>About Me</h2> <br>
 I'm currently studying in the **Bachelor of Industrial Technology Program in Information Technology**  
 at **King Mongkut's University of Technology North Bangkok (KMUTNB)**.
 
@@ -10,7 +10,7 @@ Although I’m not very good at explaining things yet, I’m always ready to lea
 
 Thanks for visiting my GitHub profile!
 
-<h1>Tech Stack</h1> <br>
+<h2>Tech Stack</h2> <br>
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
