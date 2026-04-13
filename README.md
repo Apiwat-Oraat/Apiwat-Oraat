@@ -1,3 +1,5 @@
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/06094be5-4c13-4eba-b75f-30865647f1ff" />
+
 
 ## About me     👋 Hello! <br>
 I'm currently studying in the **Bachelor of Industrial Technology Program in Information Technology**  
