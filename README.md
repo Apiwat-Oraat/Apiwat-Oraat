@@ -32,6 +32,7 @@ Thanks for visiting my GitHub profile!
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 <!--
 ![My GitHub Game](game.gif)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apiwat-Oraat&layout=compact&theme=tokyonight)
