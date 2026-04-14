@@ -1,5 +1,5 @@
 
-
+![My GitHub Game](game.gif)
 <img width="2125" height="575" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/2bbc8f82-a9e7-4c37-adfa-e0206f833ad7" />
 
 ## About me     👋 Hello! <br>
