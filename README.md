@@ -32,9 +32,10 @@ Thanks for visiting my GitHub profile!
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
+
+<!--
 [![Readme Card](https://github-readme-stats-navy-six-4krjf4psol.vercel.app/api/pin/?username=Apiwat-Oraat&repo=MiniProject-JavaOOP)](https://github.com/Apiwat-Oraat/MiniProject-JavaOOP)
 [![Readme Card](https://github-readme-stats-navy-six-4krjf4psol.vercel.app/api/pin/?username=Apiwat-Oraat&repo=MiniProject_Cpp)](https://github.com/Apiwat-Oraat/MiniProject_Cpp)
-<!--
 [![Gist Card](https://github-readme-stats-navy-six-4krjf4psol.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://github.com/Apiwat-Oraat/MiniProject-JavaOOP)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apiwat-Oraat&layout=compact&theme=tokyonight)
 -->
