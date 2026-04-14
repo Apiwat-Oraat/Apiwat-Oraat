@@ -2,22 +2,35 @@ name: Update Space Shooter Game
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Daily at midnight UTC
-  workflow_dispatch:  # Allow manual trigger
+    - cron: '0 0 * * *'   # รันทุกวันเวลา 00:00 UTC (07:00 เวลาไทย)
+  workflow_dispatch:       # กดรันเองได้
 
 permissions:
-  contents: write
+  contents: write          # ให้สิทธิ์เขียนไฟล์กลับเข้า repo
 
 jobs:
   update-game:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      # Step 1: Checkout repo
+      - uses: actions/checkout@v4
         with:
-          fetch-depth: 2  # This is crucial!
+          fetch-depth: 2
 
+      # Step 2: รัน Space Shooter Action
       - uses: czl9707/gh-space-shooter@v2
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: 'game.gif'
           strategy: 'random'
+
+      # Step 3: Commit และ Push ไฟล์ game.gif กลับเข้า repo
+      - name: Commit and push game.gif
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add game.gif
+          git commit -m "Update Space Shooter Game"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
