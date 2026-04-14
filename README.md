@@ -31,6 +31,8 @@ Thanks for visiting my GitHub profile!
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apiwat-Oraat&layout=compact&theme=tokyonight)
 -->
